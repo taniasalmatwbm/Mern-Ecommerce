@@ -46,25 +46,6 @@
   </tr>
 </table>
 
----
-
-## 📦 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/taniasalmatwbm/Mern-Ecommerce.git
-
-# Navigate to the project folder
-cd Mern-Ecommerce
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-
----
-
 ## 📽️ Project Demo
 ✅ <strong>“Stripe integration currently causes deployment issues, so the project can be run locally for full functionality. A walkthrough video and screenshots have been included for reference.”</strong> (Mobile-friendly design) 
 
@@ -108,3 +89,22 @@ This project demonstrates real-world **e-commerce functionalities** and is struc
 
 ### 🎯 **Give a Star ⭐ if you like this project!**
 
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/taniasalmatwbm/Mern-Ecommerce.git
+
+# Navigate to the project folder
+cd Mern-Ecommerce
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+---

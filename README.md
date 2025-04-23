@@ -1,5 +1,3 @@
-
-
 ## <h1 align="center">🏪 E-Commerce Website</h1>
 
 <p align="center">
@@ -16,7 +14,6 @@
 ✅ <strong>Shopping Cart & Checkout</strong>  
 ✅ <strong>Payment Integration</strong> (Stripe)  
 ✅ <strong>Admin Panel</strong> (Product & Order Management)  
-✅ <strong>Responsive UI</strong> (Mobile-friendly design)  
 
 ---
 
@@ -45,8 +42,7 @@
   </tr>
   <tr>
     <td><strong>Hosting</strong></td>
-    <td>null</td>
-    
+    <td>Currently not deployed (local setup supported)</td>
   </tr>
 </table>
 
@@ -56,21 +52,21 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecommerce-project.git
+git clone https://github.com/taniasalmatwbm/Mern-Ecommerce.git
 
 # Navigate to the project folder
-cd ecommerce-project
+cd Mern-Ecommerce
 
 # Install dependencies
 npm install
 
 # Start the development server
 npm run dev
-```
 
 ---
 
 ## 📽️ Project Demo
+✅ <strong>“Stripe integration currently causes deployment issues, so the project can be run locally for full functionality. A walkthrough video and screenshots have been included for reference.”</strong> (Mobile-friendly design) 
 
 Click below to watch the project demo video:
 
@@ -94,12 +90,6 @@ Or use the direct download link:
 ![Admin All Users Page](frontend/src/images/9.PNG)
 
 
-<p align="center">
-
-  <!-- <img src="" alt="Homepage Screenshot" width="600"/>
-  <br> -->
-  <em>Screenshot of the Ecommerece Project </em>
-</p>
 
 ## 💡 Why This Project?
 
